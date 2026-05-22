@@ -1,0 +1,2 @@
+[OPEN] Port 80 | HTTP
+[OPEN] Port 443 | HTTPS
